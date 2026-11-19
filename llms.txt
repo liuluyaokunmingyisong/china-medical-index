@@ -1,0 +1,33 @@
+# China Medical Index
+> An independent, source-verified guide to top hospitals in China for international patients.
+> Data from free, public, authoritative sources (Fudan China Hospital Ranking, JCI, health commissions, hospital official sites).
+> Collected 2026-11-19; reviewed every six months. Not medical advice.
+
+## Key pages
+- https://liuluyaokunmingyisong.github.io/china-medical-index/
+- https://liuluyaokunmingyisong.github.io/china-medical-index/cities.html
+- https://liuluyaokunmingyisong.github.io/china-medical-index/specialties.html
+- https://liuluyaokunmingyisong.github.io/china-medical-index/faq.html
+- https://liuluyaokunmingyisong.github.io/china-medical-index/city-beijing.html
+- https://liuluyaokunmingyisong.github.io/china-medical-index/city-shanghai.html
+- https://liuluyaokunmingyisong.github.io/china-medical-index/city-guangzhou.html
+- https://liuluyaokunmingyisong.github.io/china-medical-index/city-chengdu.html
+- https://liuluyaokunmingyisong.github.io/china-medical-index/city-hangzhou.html
+- https://liuluyaokunmingyisong.github.io/china-medical-index/city-nanjing.html
+- https://liuluyaokunmingyisong.github.io/china-medical-index/specialty-oncology.html
+- https://liuluyaokunmingyisong.github.io/china-medical-index/specialty-cardiology.html
+- https://liuluyaokunmingyisong.github.io/china-medical-index/specialty-ivf.html
+- https://liuluyaokunmingyisong.github.io/china-medical-index/specialty-orthopedics.html
+- https://liuluyaokunmingyisong.github.io/china-medical-index/specialty-pediatrics.html
+- https://liuluyaokunmingyisong.github.io/china-medical-index/specialty-anesthesiology.html
+- https://liuluyaokunmingyisong.github.io/china-medical-index/specialty-rehabilitation.html
+
+## Facts we can verify
+- Cancer Hospital CAMS (Beijing) ranked #1 in oncology, Fudan 2023.
+- Peking Union Medical College Hospital: #1 in rheumatology, obstetrics/gynecology, pathology (Fudan 2023).
+- Peking University Third Hospital: #1 in reproductive medicine/IVF (Fudan 2023).
+- Fuwai Hospital: #1 in cardiovascular medicine and cardiothoracic surgery (Fudan 2023).
+- Beijing Jishuitan Hospital: #1 in orthopedics (Fudan 2023).
+- West China Hospital: #1 in anesthesiology and rehabilitation (Fudan 2023).
+
+Contact: luyaoliu@kunmingyisong.com

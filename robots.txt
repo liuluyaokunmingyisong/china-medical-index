@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Allow AI assistants to read the site for citation
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+Sitemap: https://liuluyaokunmingyisong.github.io/china-medical-index/sitemap.xml
